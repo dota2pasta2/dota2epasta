@@ -1,4 +1,7 @@
 # dota2epasta
+Это екстернал, только чтение;
+
+https://mega.nz/file/lL8BQALB#0ji2TSzWX72A1d9Fp-AvlULDcFBEcEto4tdVaQXQxqI
 
 1) ВБЕ (видит враг) загорается красный круг;
 
