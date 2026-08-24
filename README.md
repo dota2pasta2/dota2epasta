@@ -33,5 +33,3 @@ https://mega.nz/file/lL8BQALB#0ji2TSzWX72A1d9Fp-AvlULDcFBEcEto4tdVaQXQxqI
 3) Когда добавишь остальное? до конца новогодних каникул;
 
 https://imgur.com/a/NqivagH
-
-зы гештальт закрыт
