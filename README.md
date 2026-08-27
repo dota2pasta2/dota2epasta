@@ -1,9 +1,9 @@
 # dota2epasta
 СТАТУС: РАБОТАЕТ;
-обновил 25.08.26
+обновил 27.08.26 добавил мапхак
 Это екстернал, только чтение;
 
-https://mega.nz/file/sf8n2QoR#hRc336OgrumhanVuY8JIv-t-euG627yhzgoesaxdWbw
+https://mega.nz/file/FfkTwBAA#CjTGYJvNh-olWczj7pdCnvuFN2FpUh--pXcdeGwMiFY
 
 ​если закачка с меги не начинается, тогда включи впн;
 1) ВБЕ (видит враг) загорается красный круг;
@@ -11,12 +11,11 @@ https://mega.nz/file/sf8n2QoR#hRc336OgrumhanVuY8JIv-t-euG627yhzgoesaxdWbw
 3) санстрайк, торент кунки = большой красный круг на месте, где будет каст
 4) отметка ласт хит = маленький красный круг под крипом
 5) отметка копия = маленький серый круг под иллюзией
- 
-Планы ЕСП переноса в екстернал:
 6) мапхак
-7) варды
-8) кд предметы
-9) кд способности
+Планы ЕСП переноса в екстернал:
+8) варды
+9) кд предметы
+10) кд способности
 
 Только чтение памяти без записи, исполнения и хуков;
 
@@ -35,4 +34,6 @@ https://mega.nz/file/sf8n2QoR#hRc336OgrumhanVuY8JIv-t-euG627yhzgoesaxdWbw
 3) Когда добавишь остальное? до конца новогодних каникул;
 4) Дай/продай сурсы? нет
 
-https://imgur.com/a/NqivagH
+меню: https://imgur.com/a/xofe8Jl
+вбе: https://imgur.com/a/NqivagH
+мапхак: https://imgur.com/a/TZEvtg0
