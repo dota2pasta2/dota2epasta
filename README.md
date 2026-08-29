@@ -1,9 +1,9 @@
 # dota2epasta
 СТАТУС: РАБОТАЕТ;
-обновил 28.08.26
+обновил 29.08.26
 Это екстернал, только чтение;
 
-https://mega.nz/file/keER2agS#0lt-Q17hOok8TlLveN3KZwX5bsrjMcf3p2Sv28oVM4I
+https://mega.nz/file/QWFURRQK#TER7c9TC9kfElgVQpzYoWmeNrcjvpoAjvRhD2F618Us
 
 ​если закачка с меги не начинается, тогда включи впн;
 1) ВБЕ (видит враг) загорается красный круг;
@@ -14,6 +14,8 @@ https://mega.nz/file/keER2agS#0lt-Q17hOok8TlLveN3KZwX5bsrjMcf3p2Sv28oVM4I
 6) мапхак
 7) варды
 8) кд предметы
+9) видеть истину = зеленый круг
+10) кд ульты
 
 Только чтение памяти без записи, исполнения и хуков;
 
@@ -34,6 +36,4 @@ https://mega.nz/file/keER2agS#0lt-Q17hOok8TlLveN3KZwX5bsrjMcf3p2Sv28oVM4I
 меню: https://imgur.com/a/xofe8Jl
 вбе: https://imgur.com/a/NqivagH
 мапхак: https://imgur.com/a/TZEvtg0
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bda79ef-ebd1-48ca-a430-d70448ab2192" />
 
