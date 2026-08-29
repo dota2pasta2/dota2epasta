@@ -34,3 +34,6 @@ https://mega.nz/file/keER2agS#0lt-Q17hOok8TlLveN3KZwX5bsrjMcf3p2Sv28oVM4I
 меню: https://imgur.com/a/xofe8Jl
 вбе: https://imgur.com/a/NqivagH
 мапхак: https://imgur.com/a/TZEvtg0
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bda79ef-ebd1-48ca-a430-d70448ab2192" />
+
