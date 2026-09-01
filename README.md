@@ -1,10 +1,10 @@
 # dota2epasta
 СТАТУС: РАБОТАЕТ;
 
-обновил 29.08.26
+обновил 01.09.26
 Это екстернал, только чтение;
 
-https://mega.nz/file/pHcTDAgC#bM5Bi5M058NKpi2585ZPDoFqZx2k3XwV6V4NglOAde8
+https://mega.nz/file/MP0ASZqA#AArVdesd_lnLyrNlKgnMqrvsanvnkPfzHsYERSrJZNQ
 
 ​если закачка с меги не начинается, тогда включи впн;
 1) ВБЕ (видит враг) загорается красный круг;
@@ -17,6 +17,7 @@ https://mega.nz/file/pHcTDAgC#bM5Bi5M058NKpi2585ZPDoFqZx2k3XwV6V4NglOAde8
 8) кд предметы
 9) видеть истину = зеленый круг
 10) кд ульты
+11) дым или ульт мираны = серый круг
 
 Только чтение памяти без записи, исполнения и хуков;
 
