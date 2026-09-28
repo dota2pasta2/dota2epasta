@@ -4,7 +4,7 @@
 **обновил 28.09.26**
 Это екстернал, только чтение;
 
-[https://mega.nz/file/YG0j0JiK#lcYKjPRsmdsNjL8tDzkcMXiy-6MxKTiYdrjoFljypMM](https://mega.nz/file/wLNV0QYB#_GllHEKQsdE5_hRQYoGmI1WYasWYKxbMwYXFcfDeT1E)
+https://mega.nz/file/wLNV0QYB#_GllHEKQsdE5_hRQYoGmI1WYasWYKxbMwYXFcfDeT1E
 
 ​если закачка с меги не начинается, тогда включи впн;
 1) ВБЕ (видит враг) загорается красный круг;
