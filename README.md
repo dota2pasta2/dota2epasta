@@ -1,10 +1,10 @@
 # dota2epasta
 СТАТУС: РАБОТАЕТ;
 
-обновил 01.09.26
+**обновил 28.09.26**
 Это екстернал, только чтение;
 
-https://mega.nz/file/YG0j0JiK#lcYKjPRsmdsNjL8tDzkcMXiy-6MxKTiYdrjoFljypMM
+[https://mega.nz/file/YG0j0JiK#lcYKjPRsmdsNjL8tDzkcMXiy-6MxKTiYdrjoFljypMM](https://mega.nz/file/wLNV0QYB#_GllHEKQsdE5_hRQYoGmI1WYasWYKxbMwYXFcfDeT1E)
 
 ​если закачка с меги не начинается, тогда включи впн;
 1) ВБЕ (видит враг) загорается красный круг;
@@ -23,7 +23,7 @@ https://mega.nz/file/YG0j0JiK#lcYKjPRsmdsNjL8tDzkcMXiy-6MxKTiYdrjoFljypMM
 
 Требования:
 1) запустили дота 2, запустили test.exe , начали поиск игры;
-2) в рюкзаке ветка
+2) в рюкзаке ветка, чтобы работало ВБЕ;
 2) директ икс 11
 3) процессор с частотой не ниже 3ГГц, чем выше тем точнее работает ВБЕ; будет занято одно ядро на 100%;
 4) после катки перезапускать доту и софт;
